@@ -1,3 +1,3 @@
 Tiedostossa toteutetaan nettiyhteys
 
-System.out.pritin("Nettiyhteys")
+System.out.printin("Nettiyhteys")
